@@ -9,3 +9,7 @@ This repository is an official PyTorch implementation of the paper **"DSI-Net: D
 * Python 3.6
 * PyTorch >= 1.3.0
 * numpy
+* apex
+* sklearn
+* matplotlib
+* PIL
