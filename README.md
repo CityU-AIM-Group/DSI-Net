@@ -13,3 +13,5 @@ This repository is an official PyTorch implementation of the paper **"DSI-Net: D
 * sklearn
 * matplotlib
 * PIL
+
+## How to Train
