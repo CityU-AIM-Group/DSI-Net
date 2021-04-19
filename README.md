@@ -19,12 +19,6 @@ This repository is an official PyTorch implementation of the paper **"DSI-Net: D
    ```python
    python train_DSI_Net.py --gpus 0 --K 100 --alpha 0.05 --image_list 'data/WCE/WCE_Dataset_image_list.pkl'
    ```
-* Testing DSI-Net
-
-  Download our trained model <a href="https:#" target="_blank">here</a> and put it in ```\checkpoints```. Please crop the black margin before test.
-   ```python
-   python test_DSI_Net.py --img_path xx --model xxx
-   ``` 
- ## Contact
+## Contact
   
   Meilu Zhu (meiluzhu2@cityu.edu.hk)
