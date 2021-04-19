@@ -26,4 +26,5 @@ This repository is an official PyTorch implementation of the paper **"DSI-Net: D
    python test_DSI_Net.py --img_path xx --model xxx
    ``` 
  ## Contact
- 
+  
+  Meilu Zhu (meiluzhu2@cityu.edu.hk)
