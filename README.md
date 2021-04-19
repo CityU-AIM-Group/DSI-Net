@@ -23,7 +23,7 @@ This repository is an official PyTorch implementation of the paper **"DSI-Net: D
 
   Download our trained model <a href="https:#" target="_blank">here</a> and put it in ```\checkpoints```. Please crop the black margin before test.
    ```python
-   python test_DSI_Net.py --img_path xx
+   python test_DSI_Net.py --img_path xx --model xxx
    ``` 
   
  
