@@ -14,4 +14,9 @@ This repository is an official PyTorch implementation of the paper **"DSI-Net: D
 * matplotlib
 * PIL
 
-## How to Train
+## Usage
+
+* Training
+   ```python
+   from model import build_model
+   ```
