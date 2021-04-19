@@ -1,6 +1,6 @@
 
 #data
-DATA_ROOT = '/home/meiluzhu2/data/WCE/WCE_post_larger'
+DATA_ROOT = '/home/meiluzhu2/data/WCE/WCE_larger'
 BATCH_SIZE = 8
 NUM_WORKERS = 8
 DROP_LAST = True
