@@ -22,7 +22,8 @@ This repository is an official PyTorch implementation of the paper **"DSI-Net: D
 * Testing DSI-Net
   Download our trained model <a href="https:#" target="_blank">here</a>
    ```python
-   python test_DSI_Net.py --img_path
+   python test_DSI_Net.py --img_path xx --model_path xx
    ``` 
+   Notice: please crop the black margin before test.
   
  
