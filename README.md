@@ -15,7 +15,7 @@ This repository is an official PyTorch implementation of the paper [**"DSI-Net: 
 * PIL
 
 ## Usage
-* Downloading processed [**"dataset"**](https://drive.google.com/file/d/1BBF21SVlH5685XpsvtKlWN7iepr7YQPU/view?usp=sharing) 
+* Downloading processed [**dataset**](https://drive.google.com/file/d/1BBF21SVlH5685XpsvtKlWN7iepr7YQPU/view?usp=sharing) 
 * Training DSI-Net
    ```python
    python train_DSI_Net.py --gpus 0 --K 100 --alpha 0.05 --image_list 'data/WCE/WCE_Dataset_image_list.pkl'
